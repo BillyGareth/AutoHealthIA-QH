@@ -146,7 +146,7 @@ def tree_to_code(tree, feature_names):
                 time.sleep(.1)
             print()
             confidence_level = (1.0*len(symptoms_present))/len(symptoms_given)
-            print("confidence level is " + str(confidence_level))
+            #print("confidence level is " + str(confidence_level))
             swali = yourName + ' are you familiar with ' + present_disease
             swali1 = 'if not, just key in 1 and I will brief you, I hope that will help'
             for words in swali:
