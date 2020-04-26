@@ -2,6 +2,8 @@
 
 ![](imgs/dec1.jpg)
 
+### Make sure you connect your device to internet for better outputs
+### When running bot.py and additional.py
 Language     : python. <br />
 modules used : scikit-learn,pandas,numpy <br />
 Model        : Decision Tree
