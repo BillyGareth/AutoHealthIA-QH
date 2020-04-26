@@ -11,7 +11,7 @@ from sklearn.tree import export_graphviz
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
-print('Please wait as I get ready')
+print('Please wait as I get ready...')
 
 training = pd.read_csv('Training.csv')
 testing = pd.read_csv('Testing.csv')
